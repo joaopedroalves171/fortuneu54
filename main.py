@@ -27,7 +27,7 @@ while True:
 
         # Nomes dos jogos
         nomes_jogos = ["Fortune Tiger", "Ox", "Mouse", "Rabbit", "Dragon"]
-        emojis_jogos = ["🐯", "🐀", "🐂", "🐇", "🐉"]
+        emojis_jogos = ["🐯","🐂","🐀", "🐇", "🐉"]
 
         entrada = f'''💰 Entrada Confirmada 💰
 

@@ -9,7 +9,7 @@ timezone = pytz.timezone('America/Sao_Paulo')
 
 token = 'SEU_TOKEN'
 token = '6109226718:AAHsI7CYGCg_V-uKfCk1v7QrLb90-A75W-Y'
-chat_id = '-1002099362235'
+chat_id = '1002019163719'
 bot = telebot.TeleBot(token)
 
 while True:
@@ -31,13 +31,13 @@ while True:
 
         entrada = f'''💰 Entrada Confirmada 💰
 
-{emojis_jogos[0]}w<a href="https://golrila.bet/">{nomes_jogos[0]}</a>
+{emojis_jogos[0]}<a href="https://golrila.bet/?ref=413520240325">{nomes_jogos[0]}</a>
 🕑 <b>Válido até:</b> {expiration_time_str} 
 👉 <b>{nu1}x Normal</b>
 ⚡️ <b>{nu2}x Turbo</b>
 🚥 <b>Intercalando</b>
 
-🔗<a href="https://golrila.bet/"><b>Cadastre-se Aqui!!</b></a>
+🔗<a href="https://golrila.bet/?ref=413520240325"><b>Cadastre-se Aqui!!</b></a>
 '''
         finalizada = f'''🔷🔹 <b>Entrada Finalizada</b> 🔹🔷
             ✅✅ GREEN! ✅✅'''

@@ -9,7 +9,7 @@ timezone = pytz.timezone('America/Sao_Paulo')
 
 token = 'SEU_TOKEN'
 token = '6109226718:AAHsI7CYGCg_V-uKfCk1v7QrLb90-A75W-Y'
-chat_id = '1002019163719'
+chat_id = '-1002078888000'
 bot = telebot.TeleBot(token)
 
 while True:
